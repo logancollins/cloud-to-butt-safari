@@ -9,4 +9,4 @@ Installing
 
 1. Download the code, open Safari, enable Developer mode.
 2. Choose Show Extension Builder from the Develop menu.
-3. Choose Add Extension… from the plus button.
+3. Choose Add Extension... from the plus button.
