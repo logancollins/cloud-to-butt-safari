@@ -1,11 +1,14 @@
-cloud-to-butt-safari
-====================
+# cloud-to-butt-safari
 
 Derived from the work of Steven Frank's [cloud-to-butt](https://github.com/panicsteve/cloud-to-butt) Chrome extension.
 
 
-Installing
-==========
+## Installing
+
+Download the CloudToButt.safariextz.zip file from the repository. Double click to install.
+
+
+## Building
 
 1. Download the code, open Safari, enable Developer mode.
 2. Choose Show Extension Builder from the Develop menu.
