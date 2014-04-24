@@ -13,3 +13,8 @@ Download [CloudToButt.safariextz.zip](https://github.com/logancollins/cloud-to-b
 1. Download the code, open Safari, enable Developer mode.
 2. Choose Show Extension Builder from the Develop menu.
 3. Choose Add Extension... from the plus button.
+
+### Credits
+
+1. [Steven Frank](https://github.com/panicsteve) - Original Chrome extension
+2. [Karun AB]((https://github.com/JAnderton) - Modification to make plugin broader in scope
